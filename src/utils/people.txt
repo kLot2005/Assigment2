@@ -1,0 +1,24 @@
+Arya Martell 3.2
+Theon Greyjoy Developer 492400.63
+Robb Baratheon 2.19
+Theon Greyjoy 3.78
+Robb Greyjoy 3.61
+Daenerys Greyjoy 3.39
+Sansa Martell 1.95
+Theon Bolton 3.31
+Tyrion Lannister Manager 300022.49
+Tyrion Greyjoy 3.82
+Jaime Stark Manager 295610.15
+Arya Greyjoy Designer 250387.16
+Bran Stark Designer 555863.65
+Cersei Baratheon 3.1
+Tyrion Baratheon Manager 510113.48
+Sansa Lannister 1.59
+Bran Targaryen 3.04
+Jon Martell Manager 255427.84
+Theon Bolton Clerk 150564.1
+Cersei Stark 1.47
+Robb Tully 3.9
+Jaime Targaryen 3.96
+Bran Greyjoy Clerk 235461.7
+Arya Tyrell Clerk 290804.54
